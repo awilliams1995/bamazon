@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "only level 1 of hw completed, run the file through the command line using node after installing packages and follow the instructions.",
+  "main": "bamazon.js",
+  "dependencies": {
+    "inquirer": "^3.2.3",
+    "mysql": "^2.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awilliams1995/bamazon.git"
+  },
+  "author": "Andrew Williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awilliams1995/bamazon/issues"
+  },
+  "homepage": "https://github.com/awilliams1995/bamazon#readme"
+}
